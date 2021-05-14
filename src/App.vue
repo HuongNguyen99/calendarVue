@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import CalendarMonth from "./components/CalendarMonth";
+import CalendarMonth from "./components/CalendarMonthView";
 
 export default {
   name: "App",
